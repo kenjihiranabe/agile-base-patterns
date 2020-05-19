@@ -1,5 +1,5 @@
 # xx.ああああああああああ（Aaaaaa Aaaaaa Aaaaa）
-
+著者：〇〇〇〇
 <img src="https://github.com/kenjihiranabe/agile-basement-patterns/blob/master/images/icon/context.png"><br>
 
 ## ▼その状況において  
