@@ -8,7 +8,7 @@
 ああああああああああああああああああああああああああああ
 ああああああああああああああああああああああああああああ
 
-## ▼その状況において  
+## ▼そこで
 <img src="https://github.com/kenjihiranabe/agile-basement-patterns/blob/master/images/icon/solution.png"><br>
 ああああああああああああああああああああああああああああ
 ああああああああああああああああああああああああああああ
