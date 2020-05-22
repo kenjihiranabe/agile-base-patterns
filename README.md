@@ -1,5 +1,7 @@
 # アジャイル基地をつくるパタン言語
 
+<img src="https://user-images.githubusercontent.com/1093925/82623251-adf7c380-9c1a-11ea-89b9-16ffe8ec075b.png" width=50%> </img>
+
 ## 著者
 - 平鍋 健児(@hiranabe),  永和システムマネジメント - Agile Studio Fukui
 - 岡島 幸男, 永和システムマネジメント - Agile Studio Fukui
