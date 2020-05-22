@@ -1,6 +1,6 @@
 # アジャイル基地をつくるパタン言語
 
-<img src="https://user-images.githubusercontent.com/1093925/82623251-adf7c380-9c1a-11ea-89b9-16ffe8ec075b.png" width=50%> </img>
+<img src="https://github.com/kenjihiranabe/agile-base-patterns/blob/master/images/front-illustration.png" width="500px"><br>
 
 ## 著者
 - 平鍋 健児(@hiranabe),  永和システムマネジメント - Agile Studio Fukui
